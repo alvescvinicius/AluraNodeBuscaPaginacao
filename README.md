@@ -31,3 +31,15 @@ Fazer login no Git com a conta do GitHub SE NECESSÁRIO:
 git config --global user.name "usuarioDoGitHub"
 
 git config --global user.email seuEmailDoGitHub@email.com
+
+## 01 - Deixando nossa API resiliente
+
+Baixar API Rest da livraria criada no curso de Node Express e MongoDB:
+
+https://github.com/alura-cursos/api-node-express-2/
+
+Extrair a pasta da aplicação api-node-express-2-main no diretório local do repositorio AluraNodeBuscaPaginacao 
+e alterar o nome para 01_NodeBuscaPaginacao.
+
+Dentro de 01_NodeBuscaPaginacao executar npm install.
+
