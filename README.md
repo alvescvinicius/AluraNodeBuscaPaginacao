@@ -43,3 +43,4 @@ e alterar o nome para 01_NodeBuscaPaginacao.
 
 Dentro de 01_NodeBuscaPaginacao executar npm install.
 
+Instalar dotenv npm install dotenv@16.0.3 para criar arquivo .env e ignorar nos commits do git por conter no conection string do MongoDB
