@@ -80,4 +80,4 @@ class LivroController {
 
 }
 
-export default LivroController
+export default LivroController;
